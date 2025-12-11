@@ -45,7 +45,6 @@ Secured user accounts with bcrypt.js and generated random passwords for Google-b
 ---
 
 ## 📊 Stats & Activity  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamjswlll&theme=tokyonight&hide_border=true) 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamjswlll&theme=react-dark)
 
 ---
@@ -57,6 +56,18 @@ Secured user accounts with bcrypt.js and generated random passwords for Google-b
 - ⚡ Love building scalable backend systems  
 
 ---
+## 🧠 Languages Known  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
+</p>
+
 
 ## 📫 Reach Me  
 📧 Email: shivamjswl13@gmail.com  
