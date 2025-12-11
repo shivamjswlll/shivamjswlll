@@ -1,4 +1,4 @@
-# 👋 Hey, I'm <Shivam Kumar>  
+# 👋 Hey, I'm Shivam Kumar
 ### Backend Developer • DevOps Learner • Cloud Practitioner  
 
 I specialize in building **scalable backend systems**, **cloud-native architectures**, and **automated CI/CD pipelines**.
