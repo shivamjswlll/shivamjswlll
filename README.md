@@ -45,7 +45,7 @@ Secured user accounts with bcrypt.js and generated random passwords for Google-b
 ---
 
 ## 📊 Stats & Activity  
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=shivamjswlll&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamjswlll&theme=tokyonight&hide_border=true) 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamjswlll&theme=react-dark)
 
 ---
