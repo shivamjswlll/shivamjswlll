@@ -50,7 +50,7 @@ Secured user accounts with bcrypt.js and generated random passwords for Google-b
 ---
 
 ## ✨ About Me  
-- 🔭 Currently preparing for **Microsoft SDE roles**  
+- 🔭 Currently working in Droom Technology. 
 - 🌱 Learning **AWS, Docker Swarm, Jenkins, System Design**  
 - 🧠 Solved **500+ DSA problems (LeetCode)**  
 - ⚡ Love building scalable backend systems  
